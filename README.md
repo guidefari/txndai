@@ -1,4 +1,5 @@
 ### Hi there 👋
+See where curiosity leads me, on [my site](https://guidefari.com).
 
 <!--
 **txndai/txndai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
